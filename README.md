@@ -44,6 +44,7 @@ al abrir el portfolio, aparece la introduccion desde la cual pulsando el botón 
 
 ### 2.2. Esquema de navegación 
 
+![20220610_224437](https://user-images.githubusercontent.com/107260998/173147858-d1bb6f5e-aa9e-4a61-a638-c0342533da42.jpg)
 
 
 
